@@ -1,19 +1,7 @@
 <div align="center">
   
  ![header](https://capsule-render.vercel.app/api?type=Rect&color=0:2D2C33,40:40227B,80:D74CEE,100:F1BCF3&height=100&section=header&text=Frontend%20Developer&fontSize=44&fontColor=FFE6D4)
-  
-  ## 🔎 ㅤInfoㅤ 🔍
-  ### Jaeho Won
-  
-  ### 📧 wonjh07@naver.com
-  
-  ### 🗣️ Trilingual 🇰🇷 🇺🇸 🇯🇵
-  
-  <a href="https://www.instagram.com/jayho07/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-  <a href="https://wonjh07.tistory.com/"><img src="https://img.shields.io/badge/Tistory-181717?style=flat&logo=Tistory&logoColor=white"/></a>
-  <a href="https://www.notion.so/WHY-8d0c73e9c6a1499897a65242849bd438"><img src="https://img.shields.io/badge/Portfolio-FF8800?style=flat&logo=Notion&logoColor=white"/></a>
-  
-  <br/><br/>
+ 
   ## 🛠️ ㅤTech Stackㅤ 🛠️
   ### Frontend 
  
@@ -36,7 +24,18 @@
   <img src="http://mazandi.herokuapp.com/api?handle=jhwon07&theme=Dark"/>
 
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwonjh07%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
+  
+  <br/><br/>
+  ## 🔎 ㅤInfoㅤ 🔍
+  ### Jaeho Won
+  
+  ### 📧 wonjh07@naver.com
+  
+  ### 🗣️ Trilingual 🇰🇷 🇺🇸 🇯🇵
+  
+  <a href="https://www.instagram.com/jayho07/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+  <a href="https://wonjh07.tistory.com/"><img src="https://img.shields.io/badge/Tistory-181717?style=flat&logo=Tistory&logoColor=white"/></a>
+  <a href="https://www.notion.so/WHY-8d0c73e9c6a1499897a65242849bd438"><img src="https://img.shields.io/badge/Portfolio-FF8800?style=flat&logo=Notion&logoColor=white"/></a>
 </div>
 <!--
 **jhwon07/jhwon07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
