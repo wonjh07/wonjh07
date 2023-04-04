@@ -7,10 +7,11 @@
   
   ### 📧 wonjh07@naver.com
   
-  ### 🗣️ 🇰🇷 🇺🇸 🇯🇵
+  ### 🗣️ Trilingual 🇰🇷 🇺🇸 🇯🇵
   
   <a href="https://www.instagram.com/jayho07/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
   <a href="https://wonjh07.tistory.com/"><img src="https://img.shields.io/badge/Tistory-181717?style=flat&logo=Tistory&logoColor=white"/></a>
+  <a href="https://www.notion.so/WHY-8d0c73e9c6a1499897a65242849bd438"><img src="https://img.shields.io/badge/Portfolio-FF8800?style=flat&logo=Notion&logoColor=white"/></a>
   
   <br/><br/>
   ## 🛠️ Tech Stack 🛠️
