@@ -41,8 +41,8 @@
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwonjh07%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
   ## 🖋️ㅤExperience
-  - 2021.10 `42 Seoul La-picine`
   - 2022.01 ~ 12 `Samsung Software Academy For Youth(SSAFY) 7th Seoul - Python track`
+  - 2021.10 `42 Seoul La-piscine`
   
   
 </div>
